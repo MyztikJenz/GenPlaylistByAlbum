@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B16E19E0132C764B00FE65E8 /* GenPlaylistByAlbum */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* GenPlaylistByAlbum */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* GenPlaylistByAlbum */,
+		);
+		codeSenseManager = B16E19EC132C765300FE65E8 /* Code sense */;
+		executables = (
+			B16E19E0132C764B00FE65E8 /* GenPlaylistByAlbum */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321764198;
+			PBXWorkspaceStateSaveDate = 321764198;
+		};
+		perUserProjectItems = {
+			B16E1A15132C825E00FE65E8 /* PBXTextBookmark */ = B16E1A15132C825E00FE65E8 /* PBXTextBookmark */;
+			B1C2FEA0132DBBE600D893C9 /* PBXTextBookmark */ = B1C2FEA0132DBBE600D893C9 /* PBXTextBookmark */;
+			B1C2FEA1132DBBE600D893C9 /* PBXBookmark */ = B1C2FEA1132DBBE600D893C9 /* PBXBookmark */;
+			B1C2FEA2132DBBE600D893C9 /* PBXTextBookmark */ = B1C2FEA2132DBBE600D893C9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B16E19EB132C765300FE65E8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* GenPlaylistByAlbum.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 2678}}";
+			sepNavSelRange = "{150, 0}";
+			sepNavVisRange = "{0, 1507}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* GenPlaylistByAlbum */ = {
+		activeExec = 0;
+		executables = (
+			B16E19E0132C764B00FE65E8 /* GenPlaylistByAlbum */,
+		);
+	};
+	B16E19E0132C764B00FE65E8 /* GenPlaylistByAlbum */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GenPlaylistByAlbum;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B16E19EB132C765300FE65E8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B16E19EC132C765300FE65E8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B16E19EE132C769700FE65E8 /* iTunes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3239, 6591}}";
+			sepNavSelRange = "{9606, 0}";
+			sepNavVisRange = "{7290, 2903}";
+			sepNavWindowFrame = "{{-1592, -60}, {1115, 958}}";
+		};
+	};
+	B16E1A15132C825E00FE65E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B16E19EE132C769700FE65E8 /* iTunes.h */;
+		name = "iTunes.h: 269";
+		rLen = 10;
+		rLoc = 12227;
+		rType = 0;
+		vrLen = 2005;
+		vrLoc = 11293;
+	};
+	B1C2FE9F132DBBA700D893C9 /* README */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 694}}";
+			sepNavSelRange = "{76, 0}";
+			sepNavVisRange = "{0, 1131}";
+		};
+	};
+	B1C2FEA0132DBBE600D893C9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* GenPlaylistByAlbum.m */;
+		name = "GenPlaylistByAlbum.m: 5";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 1507;
+		vrLoc = 0;
+	};
+	B1C2FEA1132DBBE600D893C9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B1C2FE9F132DBBA700D893C9 /* README */;
+	};
+	B1C2FEA2132DBBE600D893C9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B1C2FE9F132DBBA700D893C9 /* README */;
+		name = "README: 1";
+		rLen = 0;
+		rLoc = 76;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 0;
+	};
+}
